@@ -1,0 +1,109 @@
+{
+ "users": [
+  {
+   "id": "store-1",
+   "role": "store",
+   "label": "فروشگاه 1",
+   "hash": "pbkdf2$58539db3a68ff01d71172663283ab365$21dc807079cd849767cf1a9067280bbc8010db714949c121c5064e68da631284",
+   "active": true
+  },
+  {
+   "id": "store-2",
+   "role": "store",
+   "label": "فروشگاه 2",
+   "hash": "pbkdf2$deff7c2a7352e345217207f9d047f3cc$787229faf3010dff79ffca86f2d12c2aeb62c060a6d2b0ea3473c3e96a934054",
+   "active": true
+  },
+  {
+   "id": "store-3",
+   "role": "store",
+   "label": "فروشگاه 3",
+   "hash": "pbkdf2$394d20fbf14262a2e26edd50f603dfa5$57cb16b72097fa5b3f5231b4566e93ec7c438217b8ebc9b50408b24d963ba682",
+   "active": true
+  },
+  {
+   "id": "store-4",
+   "role": "store",
+   "label": "فروشگاه 4",
+   "hash": "pbkdf2$c7f981533751850652931dda145bc3f1$06bff5f6f514d072fe18ad88cdf2fd0ceb3b29678cd6d78961838832579a7c75",
+   "active": true
+  },
+  {
+   "id": "store-5",
+   "role": "store",
+   "label": "فروشگاه 5",
+   "hash": "pbkdf2$69453f41f390fda1bddb7d347046514a$8bb6430a466a2933b9a9a772db7805eecb235c21e4d2aad8839a311533b5add7",
+   "active": true
+  },
+  {
+   "id": "brand-1",
+   "role": "brand",
+   "label": "مالک برند 1",
+   "hash": "pbkdf2$f8e9e96337973f399c70a7006acf388e$85a3625a4b09ada0fe70bed09950663a2e8ce9b2e9d0e12d7db883e50b3ff95d",
+   "active": true
+  },
+  {
+   "id": "brand-2",
+   "role": "brand",
+   "label": "مالک برند 2",
+   "hash": "pbkdf2$751928e3a8ae5b2565fb32b5a128d03a$d3f0d11562975f42a7176bc9fe2ff6122b2d8c2719e4cbef1663ba0d46be9b58",
+   "active": true
+  },
+  {
+   "id": "brand-3",
+   "role": "brand",
+   "label": "مالک برند 3",
+   "hash": "pbkdf2$a94be6c17ff3b062ff9301f258553875$ae6c25d456cf50c7a492a1ae043f6271d52ee21bfa80ad3265fd4111d7904234",
+   "active": true
+  },
+  {
+   "id": "brand-4",
+   "role": "brand",
+   "label": "مالک برند 4",
+   "hash": "pbkdf2$b69f7d7dbcdd7894c872ffade5055269$0ecc5bb6db382775283b87271c69f3e82763135c0474f1976e901ce150fdac98",
+   "active": true
+  },
+  {
+   "id": "brand-5",
+   "role": "brand",
+   "label": "مالک برند 5",
+   "hash": "pbkdf2$8266d0669acd19a68b995c8611d0381d$79a8b0fc698c1d0422393aaf0145131cfa7eaa6f6c8f50d67423a2acaa43903a",
+   "active": true
+  },
+  {
+   "id": "system-1",
+   "role": "system",
+   "label": "مالک سیستم 1",
+   "hash": "pbkdf2$b3845bda90068d68aa7f1ca57fd138ed$23f59f94a4f8fecab5c7cc15bd0a167cba850371f620698fb72786eb096e46df",
+   "active": true
+  },
+  {
+   "id": "system-2",
+   "role": "system",
+   "label": "مالک سیستم 2",
+   "hash": "pbkdf2$f947fab62cd74ad478276fbb5e264bf3$9e565c18e43aa203ef7e3792f244779affb36543f589f707477cbf823f96295e",
+   "active": true
+  },
+  {
+   "id": "system-3",
+   "role": "system",
+   "label": "مالک سیستم 3",
+   "hash": "pbkdf2$3928d5b6dd6418fb047732922099152a$c490b479ad20d867bf7da774afd7355542b9f7b82fe5fac5400c6e064581e4d4",
+   "active": true
+  },
+  {
+   "id": "system-4",
+   "role": "system",
+   "label": "مالک سیستم 4",
+   "hash": "pbkdf2$d73b6e79aa38838e3e7b9d43848b3aa2$11a6b6bbd67569a34bd4c34972d15f8c3e618c5d23c5db910c19b9ca1a43a01a",
+   "active": true
+  },
+  {
+   "id": "system-5",
+   "role": "system",
+   "label": "مالک سیستم 5",
+   "hash": "pbkdf2$9df149d3a50d0cb2b902872c622a9f37$88e398dc6113cfc8f6c70d01d46083616752255d6ad8e5d2fdb44b79cb58a350",
+   "active": true
+  }
+ ]
+}
